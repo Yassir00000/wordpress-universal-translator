@@ -1,9 +1,6 @@
 # Logs and development files
 logs/
 
-# Project documentation (internal)
-CLAUDE.md
-
 # Temporary files
 *.tmp
 *.log
