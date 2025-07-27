@@ -1,0 +1,762 @@
+[
+  {
+    "Norvegese": "LED lysarmatur",
+    "Volume-NO": "14800",
+    "Inglese": "LED lighting fixture"
+  },
+  {
+    "Norvegese": "parklys",
+    "Volume-NO": "2400",
+    "Inglese": "park lights"
+  },
+  {
+    "Norvegese": "utebelysning",
+    "Volume-NO": "2400",
+    "Inglese": "outdoor lighting"
+  },
+  {
+    "Norvegese": "belysning",
+    "Volume-NO": "1600",
+    "Inglese": "lighting"
+  },
+  {
+    "Norvegese": "bevegelsessensorer",
+    "Volume-NO": "1600",
+    "Inglese": "motion sensored lights"
+  },
+  {
+    "Norvegese": "Bybelysning",
+    "Volume-NO": "1600",
+    "Inglese": "urban lighting"
+  },
+  {
+    "Norvegese": "parkeringslys",
+    "Volume-NO": "1600",
+    "Inglese": "car park lights"
+  },
+  {
+    "Norvegese": "lysarmatur",
+    "Volume-NO": "1300",
+    "Inglese": "lighting fixture"
+  },
+  {
+    "Norvegese": "lysarmaturer",
+    "Volume-NO": "1300",
+    "Inglese": "lighting fixtures"
+  },
+  {
+    "Norvegese": "utendørs belysning",
+    "Volume-NO": "1000",
+    "Inglese": "outdoor lighting"
+  },
+  {
+    "Norvegese": "hagebelysning",
+    "Volume-NO": "880",
+    "Inglese": "garden lighting"
+  },
+  {
+    "Norvegese": "lyktestolpe",
+    "Volume-NO": "880",
+    "Inglese": "street light"
+  },
+  {
+    "Norvegese": "idrettshaller",
+    "Volume-NO": "720",
+    "Inglese": "sports halls"
+  },
+  {
+    "Norvegese": "LED utelys",
+    "Volume-NO": "590",
+    "Inglese": "outdoor LED light"
+  },
+  {
+    "Norvegese": "gatelys",
+    "Volume-NO": "480",
+    "Inglese": "street light"
+  },
+  {
+    "Norvegese": "solcellebelysning",
+    "Volume-NO": "390",
+    "Inglese": "solar lighting"
+  },
+  {
+    "Norvegese": "bevegelsessensor lys",
+    "Volume-NO": "320",
+    "Inglese": "movement sensor light"
+  },
+  {
+    "Norvegese": "LED belysning",
+    "Volume-NO": "320",
+    "Inglese": "LED lighting"
+  },
+  {
+    "Norvegese": "fasadebelysning",
+    "Volume-NO": "260",
+    "Inglese": "facade lighting"
+  },
+  {
+    "Norvegese": "LED lyskastere",
+    "Volume-NO": "260",
+    "Inglese": "LED floodlights"
+  },
+  {
+    "Norvegese": "lysshow",
+    "Volume-NO": "260",
+    "Inglese": "light show"
+  },
+  {
+    "Norvegese": "skibakke",
+    "Volume-NO": "260",
+    "Inglese": "ski slope"
+  },
+  {
+    "Norvegese": "flomlys",
+    "Volume-NO": "210",
+    "Inglese": "projector"
+  },
+  {
+    "Norvegese": "lyssensor",
+    "Volume-NO": "210",
+    "Inglese": "lighting sensor"
+  },
+  {
+    "Norvegese": "lysstolpe",
+    "Volume-NO": "210",
+    "Inglese": "street light"
+  },
+  {
+    "Norvegese": "smart belysning",
+    "Volume-NO": "210",
+    "Inglese": "smart lighting"
+  },
+  {
+    "Norvegese": "terrassebelysning",
+    "Volume-NO": "210",
+    "Inglese": "patio lighting"
+  },
+  {
+    "Norvegese": "gårdsbelysning",
+    "Volume-NO": "170",
+    "Inglese": "yard lighting"
+  },
+  {
+    "Norvegese": "LED gatelys",
+    "Volume-NO": "170",
+    "Inglese": "LED street lights"
+  },
+  {
+    "Norvegese": "bevegelsessensor lys utendørs",
+    "Volume-NO": "140",
+    "Inglese": "motion sensor lights outdoor"
+  },
+  {
+    "Norvegese": "LED utebelysning",
+    "Volume-NO": "140",
+    "Inglese": "LED outdoor lighting"
+  },
+  {
+    "Norvegese": "lyktestolper",
+    "Volume-NO": "140",
+    "Inglese": "street lights"
+  },
+  {
+    "Norvegese": "Lyskastere",
+    "Volume-NO": "140",
+    "Inglese": "Projectors"
+  },
+  {
+    "Norvegese": "lysstyring",
+    "Volume-NO": "140",
+    "Inglese": "lighting control"
+  },
+  {
+    "Norvegese": "utebelysning stolpe",
+    "Volume-NO": "140",
+    "Inglese": "outdoor lighting pole"
+  },
+  {
+    "Norvegese": "utespotter",
+    "Volume-NO": "140",
+    "Inglese": "outdoor observer"
+  },
+  {
+    "Norvegese": "belysning utendørs",
+    "Volume-NO": "110",
+    "Inglese": "outdoor lighting"
+  },
+  {
+    "Norvegese": "gatebelysning",
+    "Volume-NO": "110",
+    "Inglese": "street lighting"
+  },
+  {
+    "Norvegese": "hagelampe",
+    "Volume-NO": "110",
+    "Inglese": "garden street light"
+  },
+  {
+    "Norvegese": "utendørs lys",
+    "Volume-NO": "110",
+    "Inglese": "outdoor lights"
+  },
+  {
+    "Norvegese": "veilys",
+    "Volume-NO": "110",
+    "Inglese": "Light pole"
+  },
+  {
+    "Norvegese": "butikkbelysning",
+    "Volume-NO": "90",
+    "Inglese": "shop lighting"
+  },
+  {
+    "Norvegese": "Energieffektivitet",
+    "Volume-NO": "90",
+    "Inglese": "Energy saving"
+  },
+  {
+    "Norvegese": "flombelysning",
+    "Volume-NO": "90",
+    "Inglese": "beam lighting"
+  },
+  {
+    "Norvegese": "gatelykt",
+    "Volume-NO": "90",
+    "Inglese": "street light"
+  },
+  {
+    "Norvegese": "indirekte belysning",
+    "Volume-NO": "90",
+    "Inglese": "indirect lighting"
+  },
+  {
+    "Norvegese": "lys bevegelsessensor",
+    "Volume-NO": "90",
+    "Inglese": "light motion sensor"
+  },
+  {
+    "Norvegese": "tunneler i norge",
+    "Volume-NO": "90",
+    "Inglese": "tunnels in norway"
+  },
+  {
+    "Norvegese": "utendørs led lys",
+    "Volume-NO": "90",
+    "Inglese": "outdoor led lights"
+  },
+  {
+    "Norvegese": "bassenglys",
+    "Volume-NO": "70",
+    "Inglese": "pools lights"
+  },
+  {
+    "Norvegese": "Gatelys stolper",
+    "Volume-NO": "70",
+    "Inglese": "Street poles"
+  },
+  {
+    "Norvegese": "lysstolper",
+    "Volume-NO": "70",
+    "Inglese": "light poles"
+  },
+  {
+    "Norvegese": "skiltbelysning",
+    "Volume-NO": "70",
+    "Inglese": "signage lighting"
+  },
+  {
+    "Norvegese": "ute belysning",
+    "Volume-NO": "70",
+    "Inglese": "outdoor lighting"
+  },
+  {
+    "Norvegese": "utvendig belysning",
+    "Volume-NO": "70",
+    "Inglese": "outdoor lighting"
+  },
+  {
+    "Norvegese": "portlys",
+    "Volume-NO": "50",
+    "Inglese": "port lights"
+  },
+  {
+    "Norvegese": "gårdsplass belysning",
+    "Volume-NO": "40",
+    "Inglese": "courtyard lighting"
+  },
+  {
+    "Norvegese": "led lys bevegelsessensor",
+    "Volume-NO": "40",
+    "Inglese": "led light movement sensor"
+  },
+  {
+    "Norvegese": "pullert belysning",
+    "Volume-NO": "40",
+    "Inglese": "bollard lighting"
+  },
+  {
+    "Norvegese": "Veibelysning",
+    "Volume-NO": "40",
+    "Inglese": "street lighting"
+  },
+  {
+    "Norvegese": "veibelysning",
+    "Volume-NO": "40",
+    "Inglese": "road lighting"
+  },
+  {
+    "Norvegese": "industribelysning",
+    "Volume-NO": "30",
+    "Inglese": "industrial lighting"
+  },
+  {
+    "Norvegese": "innendørs belysning",
+    "Volume-NO": "30",
+    "Inglese": "indoor lighting"
+  },
+  {
+    "Norvegese": "lysstang",
+    "Volume-NO": "30",
+    "Inglese": "lighting pole"
+  },
+  {
+    "Norvegese": "nattbelysning",
+    "Volume-NO": "30",
+    "Inglese": "night lighting"
+  },
+  {
+    "Norvegese": "nødbelysning",
+    "Volume-NO": "30",
+    "Inglese": "emergency lighting"
+  },
+  {
+    "Norvegese": "parkbelysning",
+    "Volume-NO": "30",
+    "Inglese": "park lighting"
+  },
+  {
+    "Norvegese": "utendørs LED belysning",
+    "Volume-NO": "30",
+    "Inglese": "outdoor LED lighting"
+  },
+  {
+    "Norvegese": "bassengbelysning",
+    "Volume-NO": "20",
+    "Inglese": "pool lighting"
+  },
+  {
+    "Norvegese": "dekorativ belysning",
+    "Volume-NO": "20",
+    "Inglese": "decorative lighting"
+  },
+  {
+    "Norvegese": "gatelampe",
+    "Volume-NO": "20",
+    "Inglese": "street light"
+  },
+  {
+    "Norvegese": "gatelykter",
+    "Volume-NO": "20",
+    "Inglese": "street lamps"
+  },
+  {
+    "Norvegese": "gatelysarmatur",
+    "Volume-NO": "20",
+    "Inglese": "street light fixture"
+  },
+  {
+    "Norvegese": "hagebelysning stolpe",
+    "Volume-NO": "20",
+    "Inglese": "garden lighting pole"
+  },
+  {
+    "Norvegese": "led veilys",
+    "Volume-NO": "20",
+    "Inglese": "led road lights"
+  },
+  {
+    "Norvegese": "lysstyringssystemer",
+    "Volume-NO": "20",
+    "Inglese": "light control systems"
+  },
+  {
+    "Norvegese": "Områdebelysning",
+    "Volume-NO": "20",
+    "Inglese": "large area lighting"
+  },
+  {
+    "Norvegese": "stolpebelysning",
+    "Volume-NO": "20",
+    "Inglese": "pole lighting"
+  },
+  {
+    "Norvegese": "utomhusbelysning",
+    "Volume-NO": "20",
+    "Inglese": "outdoor lighting"
+  },
+  {
+    "Norvegese": "arena belysning",
+    "Volume-NO": "10",
+    "Inglese": "arena lighting"
+  },
+  {
+    "Norvegese": "arenabelysning",
+    "Volume-NO": "10",
+    "Inglese": "arena lighting"
+  },
+  {
+    "Norvegese": "arkitektonisk belysning",
+    "Volume-NO": "10",
+    "Inglese": "architectural lighting"
+  },
+  {
+    "Norvegese": "armaturstolpe",
+    "Volume-NO": "10",
+    "Inglese": "luminaire pole"
+  },
+  {
+    "Norvegese": "asymmetrisk belysning",
+    "Volume-NO": "10",
+    "Inglese": "asymmetric lighting"
+  },
+  {
+    "Norvegese": "automatisk lyssensor",
+    "Volume-NO": "10",
+    "Inglese": "automatic light sensor"
+  },
+  {
+    "Norvegese": "banebelysning",
+    "Volume-NO": "10",
+    "Inglese": "court lighting"
+  },
+  {
+    "Norvegese": "banelys",
+    "Volume-NO": "10",
+    "Inglese": "court light"
+  },
+  {
+    "Norvegese": "belysning krav",
+    "Volume-NO": "10",
+    "Inglese": "lighting requirements"
+  },
+  {
+    "Norvegese": "belysning med LED",
+    "Volume-NO": "10",
+    "Inglese": "LED lighting"
+  },
+  {
+    "Norvegese": "belysningsanlegg",
+    "Volume-NO": "10",
+    "Inglese": "lighting system"
+  },
+  {
+    "Norvegese": "belysningsløsning",
+    "Volume-NO": "10",
+    "Inglese": "lighting solution"
+  },
+  {
+    "Norvegese": "Belysningsmaster",
+    "Volume-NO": "10",
+    "Inglese": "Lighting poles"
+  },
+  {
+    "Norvegese": "belysningssystem",
+    "Volume-NO": "10",
+    "Inglese": "lighting system"
+  },
+  {
+    "Norvegese": "bevegelsesdetektor lys",
+    "Volume-NO": "10",
+    "Inglese": "movement detector light"
+  },
+  {
+    "Norvegese": "brobelysning",
+    "Volume-NO": "10",
+    "Inglese": "bridge lighting"
+  },
+  {
+    "Norvegese": "dimbar belysning",
+    "Volume-NO": "10",
+    "Inglese": "dimmable lighting"
+  },
+  {
+    "Norvegese": "flomlys fotballbane",
+    "Volume-NO": "10",
+    "Inglese": "illuminated football pitch"
+  },
+  {
+    "Norvegese": "flomlys idrettsanlegg",
+    "Volume-NO": "10",
+    "Inglese": "illuminated sports facilities"
+  },
+  {
+    "Norvegese": "gadebelysning",
+    "Volume-NO": "10",
+    "Inglese": "street lighting"
+  },
+  {
+    "Norvegese": "gatelamper",
+    "Volume-NO": "10",
+    "Inglese": "street lamps"
+  },
+  {
+    "Norvegese": "gym belysning",
+    "Volume-NO": "10",
+    "Inglese": "gymnasium lighting"
+  },
+  {
+    "Norvegese": "idrettsbelysning",
+    "Volume-NO": "10",
+    "Inglese": "sports lighting"
+  },
+  {
+    "Norvegese": "Industriarmaturer",
+    "Volume-NO": "10",
+    "Inglese": "Industrial lighting fixtures"
+  },
+  {
+    "Norvegese": "industriell LED belysning",
+    "Volume-NO": "10",
+    "Inglese": "industrial LED lighting"
+  },
+  {
+    "Norvegese": "klassisk belysning",
+    "Volume-NO": "10",
+    "Inglese": "classic lighting"
+  },
+  {
+    "Norvegese": "lagerbelysning",
+    "Volume-NO": "10",
+    "Inglese": "warehouse lighting"
+  },
+  {
+    "Norvegese": "lampe med bevegelsesdetektor",
+    "Volume-NO": "10",
+    "Inglese": "lamp with motion detector"
+  },
+  {
+    "Norvegese": "landskapsbelysning",
+    "Volume-NO": "10",
+    "Inglese": "landscape lighting"
+  },
+  {
+    "Norvegese": "LED flombelysning",
+    "Volume-NO": "10",
+    "Inglese": "LED lighting"
+  },
+  {
+    "Norvegese": "LED gatebelysning",
+    "Volume-NO": "10",
+    "Inglese": "LED street lighting"
+  },
+  {
+    "Norvegese": "LED gatelykt",
+    "Volume-NO": "10",
+    "Inglese": "street lamp with LED"
+  },
+  {
+    "Norvegese": "led gatelysarmatur",
+    "Volume-NO": "10",
+    "Inglese": "led street light fixture"
+  },
+  {
+    "Norvegese": "LED industri belysning",
+    "Volume-NO": "10",
+    "Inglese": "LED industrial lighting"
+  },
+  {
+    "Norvegese": "LED industribelysning",
+    "Volume-NO": "10",
+    "Inglese": "LED industrial lighting"
+  },
+  {
+    "Norvegese": "led industribelysning",
+    "Volume-NO": "10",
+    "Inglese": "led industrial lighting"
+  },
+  {
+    "Norvegese": "led industrilys",
+    "Volume-NO": "10",
+    "Inglese": "led industrial light"
+  },
+  {
+    "Norvegese": "LED lys for lager",
+    "Volume-NO": "10",
+    "Inglese": "LED warehouse lights"
+  },
+  {
+    "Norvegese": "led lys til lager",
+    "Volume-NO": "10",
+    "Inglese": "led warehouse light"
+  },
+  {
+    "Norvegese": "LED teknologi",
+    "Volume-NO": "10",
+    "Inglese": "LED technology"
+  },
+  {
+    "Norvegese": "LED veibelysning",
+    "Volume-NO": "10",
+    "Inglese": "LED street lighting"
+  },
+  {
+    "Norvegese": "linjebelysning",
+    "Volume-NO": "10",
+    "Inglese": "linear lighting"
+  },
+  {
+    "Norvegese": "lyslab",
+    "Volume-NO": "10",
+    "Inglese": "lighting lab"
+  },
+  {
+    "Norvegese": "lyssensorer",
+    "Volume-NO": "10",
+    "Inglese": "lighting sensors"
+  },
+  {
+    "Norvegese": "lysstyringssystem",
+    "Volume-NO": "10",
+    "Inglese": "lighting control system"
+  },
+  {
+    "Norvegese": "offentlig belysning",
+    "Volume-NO": "10",
+    "Inglese": "public lighting"
+  },
+  {
+    "Norvegese": "parkering belysning",
+    "Volume-NO": "10",
+    "Inglese": "parking lighting"
+  },
+  {
+    "Norvegese": "parkeringsbelysning",
+    "Volume-NO": "10",
+    "Inglese": "parking lighting"
+  },
+  {
+    "Norvegese": "parkeringshus belysning",
+    "Volume-NO": "10",
+    "Inglese": "parking lighting"
+  },
+  {
+    "Norvegese": "port lys",
+    "Volume-NO": "10",
+    "Inglese": "port light"
+  },
+  {
+    "Norvegese": "portbelysning",
+    "Volume-NO": "10",
+    "Inglese": "port lighting"
+  },
+  {
+    "Norvegese": "projektor belysning",
+    "Volume-NO": "10",
+    "Inglese": "floodlighting"
+  },
+  {
+    "Norvegese": "Relamping",
+    "Volume-NO": "10",
+    "Inglese": "Relamping"
+  },
+  {
+    "Norvegese": "sensorbelysning",
+    "Volume-NO": "10",
+    "Inglese": "sensor lighting"
+  },
+  {
+    "Norvegese": "signalstolpe",
+    "Volume-NO": "10",
+    "Inglese": "signal pole"
+  },
+  {
+    "Norvegese": "Sikkerhedsbelysning",
+    "Volume-NO": "10",
+    "Inglese": "Security lighting"
+  },
+  {
+    "Norvegese": "sokkellamper",
+    "Volume-NO": "10",
+    "Inglese": "pedestal lamps"
+  },
+  {
+    "Norvegese": "Solcelledrevet belysning",
+    "Volume-NO": "10",
+    "Inglese": "Solar lighting"
+  },
+  {
+    "Norvegese": "sportsbelysning",
+    "Volume-NO": "10",
+    "Inglese": "sports lighting"
+  },
+    {
+    "Norvegese": "sportslys",
+    "Volume-NO": "10",
+    "Inglese": "sports lights"
+  },
+  {
+    "Norvegese": "stadionbelysning",
+    "Volume-NO": "10",
+    "Inglese": "stadium lighting"
+  },
+  {
+    "Norvegese": "stadionlys",
+    "Volume-NO": "10",
+    "Inglese": "stadium lights"
+  },
+  {
+    "Norvegese": "Stibelysning",
+    "Volume-NO": "10",
+    "Inglese": "path lighting"
+  },
+  {
+    "Norvegese": "tennis lys",
+    "Volume-NO": "10",
+    "Inglese": "tennis light"
+  },
+  {
+    "Norvegese": "tilpasset belysning",
+    "Volume-NO": "10",
+    "Inglese": "custom lighting"
+  },
+  {
+    "Norvegese": "tunnelbelysning",
+    "Volume-NO": "10",
+    "Inglese": "tunnel lighting"
+  },
+  {
+    "Norvegese": "tunnellys",
+    "Volume-NO": "10",
+    "Inglese": "tunnel lights"
+  },
+  {
+    "Norvegese": "udendørs belysning",
+    "Volume-NO": "10",
+    "Inglese": "outdoor lighting"
+  },
+  {
+    "Norvegese": "urban belysning",
+    "Volume-NO": "10",
+    "Inglese": "urbanlighting"
+  },
+  {
+    "Norvegese": "urban hyper",
+    "Volume-NO": "10",
+    "Inglese": "urban hyper"
+  },
+  {
+    "Norvegese": "utendørs stolpebelysning",
+    "Volume-NO": "10",
+    "Inglese": "outdoor pole lighting"
+  },
+  {
+    "Norvegese": "utvendig LED belysning",
+    "Volume-NO": "10",
+    "Inglese": "LED outdoor lighting"
+  },
+  {
+    "Norvegese": "veilampe",
+    "Volume-NO": "10",
+    "Inglese": "road lamp"
+  }
+]

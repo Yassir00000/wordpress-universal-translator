@@ -1,0 +1,33 @@
+<!-- popup.html -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Copied Texts</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="searchContainer">
+    <input type="text" id="searchInput" placeholder="Search in JSON...">
+    <button id="searchButton">Search</button>
+    <button id="resetSearchButton">Reset</button>
+  </div>
+
+  <!-- Checkbox hidden until there are at least 6 elements -->
+  <label id="tipoContainer" style="display: none; margin: 8px 0;">
+    <input type="checkbox" id="tipoCheckbox">
+    Assign 6 element types
+  </label>
+
+  <textarea id="jsonEditorArea" rows="12" style="width:100%;"></textarea>
+
+  <div style="margin-top:8px;">
+    <button id="clearButton">Clear All</button>
+    <button id="copyJsonButton">Copy JSON</button>
+    <button id="toggleTranslationButton">Activate Translation</button>
+    <button id="requestOpenAITranslationsButton">Request OpenAI Translations</button>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
